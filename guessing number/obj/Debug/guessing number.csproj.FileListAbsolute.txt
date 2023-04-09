@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\guessing number\bin\Debug\guessing number.exe.config
+C:\Users\ACER\source\repos\guessing number\bin\Debug\guessing number.exe
+C:\Users\ACER\source\repos\guessing number\bin\Debug\guessing number.pdb
+C:\Users\ACER\source\repos\guessing number\obj\Debug\guessing number.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\guessing number\obj\Debug\guessing_number.Form1.resources
+C:\Users\ACER\source\repos\guessing number\obj\Debug\guessing_number.Properties.Resources.resources
+C:\Users\ACER\source\repos\guessing number\obj\Debug\guessing number.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\guessing number\obj\Debug\guessing number.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\guessing number\obj\Debug\guessing number.exe
+C:\Users\ACER\source\repos\guessing number\obj\Debug\guessing number.pdb
